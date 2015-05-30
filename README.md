@@ -1,6 +1,6 @@
 # SMPSUBreakout
 
-This is a breakout board for the TI LM2596 SIMPLE SWITCHER Power Converter. This is the first pass, I have not tested it yet. I will update this file when I have tested it and everything is working OK.
+This is a breakout board for the TI LM2596 SIMPLE SWITCHER Power Converter.
 
 
 Here are the components required for building this circuit:
